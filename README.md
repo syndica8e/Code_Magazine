@@ -1,4 +1,3 @@
 # Code_Magazine
 First HTML &amp; CSS project
-
-Basic HTML page with CSS Fundamentals
+Added HTML Fundamentals inside the webpage
