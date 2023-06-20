@@ -1,2 +1,3 @@
 # Code_Magazine
-First HTML Project covering all basic fundamentals in HTML5
+HTML Project for Reference which covers ALL basic fundamentals in HTML5
+
